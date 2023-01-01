@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p> I am a student of electronics communication and information engineering </p>
+<p> I am a young innovative and excellent coder </p> 
+
 <!--
 **NiXchal/NiXchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
